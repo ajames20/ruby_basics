@@ -1,12 +1,15 @@
 =begin
-exercise 1: Add two strings together that, when concatenated, return your first and last name as your full name in one string.
+exercise 1: Add two strings together that, when concatenated, return your
+first and last name as your full name in one string.
 =end
 
 puts "Andrew" + " James"
 puts "\n"
 
 =begin
-exercise 2: Use the modulo operator, division, or a combination of both to take a 4 digit number and find the digit in the: 1) thousands place 2) hundreds place 3) tens place 4) ones place
+exercise 2: Use the modulo operator, division, or a combination of both to
+take a 4 digit number and find the digit in the: 1) thousands place
+2) hundreds place 3) tens place 4) ones place
 =end
 
 thousands = 1234
@@ -23,7 +26,9 @@ puts "Ones place #{ones}"
 puts "\n"
 
 =begin
-exercise 3: Write a program that uses a hash to store a list of movie titles with the year they came out. Then use the puts command to make your program print out the year of each movie to the screen.
+exercise 3: Write a program that uses a hash to store a list of movie
+titles with the year they came out. Then use the puts command to
+make your program print out the year of each movie to the screen.
 =end
 
 
@@ -36,7 +41,9 @@ puts "\n"
 
 
 =begin
-exercise 4: Use the dates from the previous example and store them in an array. Then make your program output the same thing as exercise 3.
+exercise 4: Use the dates from the previous example
+and store them in an array. Then make your program output
+the same thing as exercise 3.
 =end
 
 
@@ -48,7 +55,8 @@ puts movies_array[2]
 puts "\n"
 
 =begin
-exercice 5: Write a program that outputs the factorial of the numbers 5, 6, 7, and 8.
+exercice 5: Write a program that outputs the factorial of the
+numbers 5, 6, 7, and 8.
 =end
 
 puts 5 * 4 * 3 * 2 * 1
@@ -58,7 +66,9 @@ puts 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1
 puts "\n"
 
 =begin
-exercise 6: Write a program that calculates the squares of 3 float numbers of your choosing and outputs the result to the screen.
+exercise 6: Write a program that calculates
+the squares of 3 float numbers of
+your choosing and outputs the result to the screen.
 =end
 
 puts 15.4 * 15.4
